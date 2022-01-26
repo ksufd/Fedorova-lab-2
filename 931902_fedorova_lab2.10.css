@@ -1,0 +1,16 @@
+.float {
+    background-color: aquamarine;
+    width: 170px;
+    height: 100px;
+    float:left;
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-bottom:20px;
+}
+.clear{
+    margin-left: 5px;
+    clear:both;
+    width:100%;
+    background-color:bisque;
+    margin-right: 3px;
+}

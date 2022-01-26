@@ -1,0 +1,38 @@
+.one{
+    background-color: bisque ;
+    color: black ;
+    width: 200px;
+    height: 85px;
+    position: absolute;
+}
+.two{
+    background-color: aqua ;
+    width:100%;
+    position:relative;
+    border: 1px solid forestgreen;
+}
+.three{
+    background-color: darkgray ;
+    color: black ;
+    position: relative;
+    margin-left: 205px;
+    max-width: 84%;
+ } 
+@media screen and (max-width:800px) {
+    .one{
+        background-color: bisque;
+        height: 85px;
+        width: 120px;
+        position: absolute;
+    }
+    
+    .three{
+        width: 70%;
+        height: 50%;
+        color: black;
+        background-color: darkgray;
+        position: relative;
+        left: -205px;
+        top: +85px;
+    }
+}

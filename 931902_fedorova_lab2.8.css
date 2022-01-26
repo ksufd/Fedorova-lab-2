@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+}
+.two{
+	background-color: aqua;
+	float: left;
+	margin: 5px;
+}
+.one{
+	background-color: bisque;	
+	width: 200px;
+	height: 100px;
+}
+ul{
+	padding-top: 15px;
+}
+.three{
+	background-color: darkgray;	
+	margin-left: 200px;
+	margin-top: -100px;
+	font-size: 11px;
+	line-height: 20px;
+}
+footer{
+	background-color: limegreen;
+	position: fixed;
+	bottom: 0;
+	width: 100em;
+	height: 40px;
+}

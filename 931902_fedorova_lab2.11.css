@@ -1,0 +1,10 @@
+.text{
+    background-color: aqua;
+    width: 100%;
+    border: 1px solid forestgreen;
+    height: 245px;
+}
+img{
+    height: 245px;
+    float:right;
+}

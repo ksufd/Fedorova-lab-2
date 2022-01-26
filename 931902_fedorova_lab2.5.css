@@ -1,0 +1,15 @@
+.up{
+    background-color: green;
+    width: 200px;
+    color: white;
+    margin: 15px auto 15px auto;
+    width: 500px;
+}
+.down{
+    background-color: blue;
+    color: white;
+    margin: 15px auto 15px auto;
+    width: 500px;
+    border: 10px solid blue;
+    padding: 30px;
+}

@@ -1,0 +1,11 @@
+.text{
+    background-color: blue;
+    color: white;
+    margin: 15px auto 15px auto;
+    width: 580px;
+}
+img{
+    float: right;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
